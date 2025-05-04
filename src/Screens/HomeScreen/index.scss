@@ -1,0 +1,8 @@
+.home-container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    .left-container{
+        background-color: #1E1E1E;
+    }
+}
