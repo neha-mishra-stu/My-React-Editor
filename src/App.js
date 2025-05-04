@@ -4,13 +4,15 @@ import { PlaygroundScreen } from "./screens/PlaygroundScreen";
 
 function App() {
   return (
+    <>
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={HomeScreen}/>
-      <Route path="/playground" element={PlaygroundScreen}/>
+      <Route path="/" element={<HomeScreen/>}/>
+      <Route path="/playground" element={<PlaygroundScreen/>}/>
         
         </Routes>
         </BrowserRouter>
+      </>
   );
 }
 

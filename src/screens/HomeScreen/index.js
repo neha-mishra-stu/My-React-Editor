@@ -14,7 +14,7 @@ export const HomeScreen = () => {
                   </button>
                 </div>
             </div>
-            <div classNme="right-container">
+            <div className="right-container">
                     right
             </div>
         </div>
