@@ -20,6 +20,9 @@
                 width: 100px;
             }
             button{
+                display:flex;
+                align-items: center;
+                justify-content:center;
                 cursor: pointer;
                 height: 50px;
                 width: 90%;
