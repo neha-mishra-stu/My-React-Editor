@@ -9,7 +9,7 @@ export const HomeScreen = () => {
                 <h1>Accijob</h1>
                 <h2>Code.Compile.Debug</h2>
                 <button>
-                  <span clssName="material-icons"> add </span>
+                  <span className="material-icons"> add </span>
                   <span> Create plaayground</span>
                   </button>
                 </div>
