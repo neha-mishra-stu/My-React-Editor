@@ -8,7 +8,10 @@ export const HomeScreen = () => {
                 <img src="" />
                 <h1>Accijob</h1>
                 <h2>Code.Compile.Debug</h2>
-                <button>Create Playground</button>
+                <button>
+                  <span clssName="material-icons"> add </span>
+                  <span> Create plaayground</span>
+                  </button>
                 </div>
             </div>
             <div classNme="right-container">
